@@ -347,12 +347,19 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Player.cs"
 "Assets/Scripts/AI.cs"
 "Assets/Scripts/Enum/EnemyAI.cs"
 "Assets/Scripts/Enum/Item.cs"
 "Assets/Scripts/Enum/ItemDB.cs"
 "Assets/Scripts/Enum/SelectDifficulty.cs"
 "Assets/Scripts/Enum/SizeChange.cs"
+"Assets/Scripts/Singleton/GameManager.cs"
+"Assets/Scripts/Singleton/InputManager.cs"
+"Assets/Scripts/Singleton/LevelManager.cs"
+"Assets/Scripts/Singleton/MonoSingleton.cs"
+"Assets/Scripts/Singleton/SpawnManager.cs"
+"Assets/Scripts/Singleton/UIManager.cs"
 -langversion:9.0
 
 /deterministic
